@@ -95,3 +95,4 @@ setup_course_notes(folder = "~/Documents")
 
 The included datasets and functions are documented at <http://kjhealy.github.io/socviz/reference/>. 
 
+Check if this works
